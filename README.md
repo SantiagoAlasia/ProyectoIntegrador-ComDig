@@ -1,4 +1,4 @@
-# ProyectoIntegrador_ComDig
+# ProyectoIntegrador-ComDig
 
 Repositorio dedicado al proyecto integrador de la materia Comunicaciones Digitales. (Modulación LoRa)
 
